@@ -1,16 +1,34 @@
 ## Hi there 👋
 
 <!--
-**cokonkwo365/cokonkwo365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Chuka Okonkwo
 
-Here are some ideas to get you started:
+Senior cybersecurity analyst with 10+ years of experience in security operations, incident response, vulnerability management, and threat hunting across enterprise environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+This GitHub profile serves as a **security operations portfolio** organized under TDX  — a mock internal security organization used to structure and demonstrate real-world detection, investigation, and response workflows.
+
+What is TDX?
+TDX is a mock company that mirrors how modern SOC and detection engineering teams organize their work.  
+It is used to showcase practical, production-oriented security analysis using Microsoft security platforms.
+
+Focus Areas
+- Threat detection and hunting  
+- Incident investigation and response  
+- Endpoint and identity security  
+- Microsoft Sentinel, Defender XDR, and Defender for Endpoint  
+
+TDX Repositories
+- **tdx-sentinel-detections-and-hunting**  
+  Detection logic and threat hunting queries using Microsoft Sentinel and KQL
+
+- **tdx-defender-xdr-incident-investigations**  
+  End-to-end incident investigations using Microsoft Defender XDR
+
+- **tdx-defender-endpoint-device-investigations**  
+  Endpoint investigation and response workflows using Microsoft Defender for Endpoint
+
+---
+
+This portfolio reflects **hands-on experience** and emphasizes **analytical decision-making**, investigation methodology, and security operations best practices.
+
 -->
