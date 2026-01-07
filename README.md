@@ -1,5 +1,11 @@
 
 
+# Chuka R. Okonkwo
+**Senior Security Analyst | Lead Security Engineer** *CISSP, CCNA, CCNP, Security+*
+
+### 🛡️ Professional Summary
+Dedicated cybersecurity professional with over 10 years of experience in high-stakes environments, specializing in **Incident Response, Detection Engineering, and Security Operations**. Proven track record of protecting large-scale enterprise environments and leading technical initiatives at organizations like **Reinsurance Group America** and **Cyber Defense Labs**.
+
 ## 🏢 Organization: Guardian Logistics & Supply (GLS)
 Guardian Logistics & Supply (GLS) is a global third-party logistics (3PL) provider specializing in high-value freight, secure warehousing, and complex supply chain management. GLS operates as a critical link in the global economy, managing sensitive inventory for the retail, manufacturing, and food distribution sectors.
 
