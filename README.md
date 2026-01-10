@@ -1,7 +1,7 @@
 
 
 # Chuka R. Okonkwo
-**Senior Security Analyst | Lead Security Engineer** *CISSP, CCNA, CCNP, Security+*
+**Senior Security Engineer** *CISSP, CCNA, CCNP
 
 ### 🛡️ Professional Summary
 Dedicated cybersecurity professional with over 10 years of experience in high-stakes environments, specializing in **Incident Response, Detection Engineering, and Security Operations**. Proven track record of protecting large-scale enterprise environments and leading technical initiatives at organizations like **Reinsurance Group America** and **Cyber Defense Labs**.
